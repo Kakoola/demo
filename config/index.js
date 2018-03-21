@@ -50,9 +50,9 @@ module.exports = {
     index: path.resolve(__dirname, '../dist/index.html'), // 指定index打包之后的存放地址
 
     // Paths
-    assetsRoot: path.resolve(__dirname, '../dist/public'), // 指定webpack的入口文件打包之后存放的地址
+    assetsRoot: path.resolve(__dirname, '../dist'), // 指定webpack的入口文件打包之后存放的地址
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/',
+    assetsPublicPath: './',
 
     /**
      * Source Maps
