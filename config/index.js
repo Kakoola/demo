@@ -52,7 +52,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'), // 指定webpack的入口文件打包之后存放的地址
     assetsSubDirectory: 'static',
-    assetsPublicPath: './',
+    assetsPublicPath: './',// 1
 
     /**
      * Source Maps
