@@ -1,12 +1,12 @@
 
 <style scoped>
-  .user>.user-icon{
+  /* .user>.user-icon{ */
     /* background-image:url("assets/logo.png"); */
     /* background-repeat: no-repeat;
     background-position: 0px 0px;
     width: 20px;
     height: 20px; */
-  }
+  /* } */
 </style>
 <template>
   <div>
